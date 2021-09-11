@@ -4,9 +4,9 @@ example of rest api with spring boot plus mysql
 # springbootapi
 rest api Json Response / Json Consume
 
-#Desarrollo web
+# Desarrollo web
 
-#end Points
+# end Points
 
 GET/POST/PUT/DELET Api/Cliente
 GET/POST/PUT/DELET Api/Producto
